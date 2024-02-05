@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashutosh Upadhyay
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Probability and Stats
+- 🌱 I’m currently learning Machine Learning
 
 
 <!---
